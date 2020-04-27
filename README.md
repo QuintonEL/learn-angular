@@ -1,3 +1,11 @@
+# ToDo List
+### A simple single page application made while learning Angular.
+Followed LearnCodeOnline YouTube tutorial.
+
+## Screenshot
+
+![Main](https://github.com/QuintonEL/learn-angular/blob/master/docs/app.png?raw=true)
+
 # LearnAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
